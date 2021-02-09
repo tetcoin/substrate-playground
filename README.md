@@ -1,6 +1,6 @@
 ![](https://github.com/paritytech/substrate-playground/workflows/Continuous%20Testing%20Playground/badge.svg) 
 
-# Substrate playground
+# Tetcore playground
 
 A hosted website that enables the user to navigate [Substrate](https://github.com/paritytech/substrate) runtimes, modify them and run remotely accessible chain. In a couple minutes!
 
