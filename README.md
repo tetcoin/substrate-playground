@@ -2,7 +2,7 @@
 
 # Tetcore playground
 
-A hosted website that enables the user to navigate [Substrate](https://github.com/paritytech/substrate) runtimes, modify them and run remotely accessible chain. In a couple minutes!
+A hosted website that enables the user to navigate [Tetcore](https://github.com/tetcoin/tetcore) runtimes, modify them and run remotely accessible chain. In a couple minutes!
 
 ## Trying it out
 
